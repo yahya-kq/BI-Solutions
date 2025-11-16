@@ -1,73 +1,38 @@
-# 📊 Power BI Projects Portfolio
+# BI Solutions 
 
-Welcome to my **Power BI Projects Repository** — a curated collection of **real-world business intelligence dashboards** and data analysis case studies. Each project reflects my capability in transforming raw datasets into **interactive, actionable, and visually compelling insights** using **Power BI**.
+**Project Overview**  
+Welcome to the BI Solutions Repository — a curated collection of business intelligence and data analytics projects across multiple domains. This repository showcases my ability to transform raw data into actionable insights that drive smarter decision-making, optimize business processes, and highlight key performance trends.
 
-
-
-## 🎯 Why Power BI?
-
-Power BI is more than a visualization tool — it’s a complete data storytelling platform. In this repository, I showcase how I use Power BI to:
-
-- Clean and model complex datasets  
-- Design user-friendly dashboards  
-- Deliver insights that support smart decision-making
+Each project demonstrates practical applications of analytics, covering areas such as sales, finance, HR, e-commerce, and operations. The work includes dashboards, reports, and analytical frameworks designed to deliver meaningful business impact.
 
 
+## What You Can Explore
+In this repository, you will find a variety of BI projects, each targeting different business domains and analytical challenges. While individual projects may vary in focus, they all aim to:
 
-## 📁 Projects Included
+- Provide clear, data-driven insights  
+- Enable better decision-making across functions  
+- Highlight patterns, trends, and actionable metrics  
+- Offer replicable frameworks for future analytics projects  
 
-Below are some of the featured dashboards in this repository. Each project includes the `.pbix` file and relevant documentation:
-
-### 🚗 Car Supply Chain Dashboard
-- Visualizes car sales, shipping modes, and customer trends.
-- Includes filters for region, shipping type, and product category.
-- Highlights operational bottlenecks and sales opportunities.
-
-### 💼 HR Analytics Dashboard
-- Tracks employee attrition, age distribution, department-wise retention, and gender diversity.
-- Helps HR teams make informed hiring and retention decisions.
-
-### 📦 E-commerce Sales Dashboard
-- Showcases sales trends, product category performance, and customer location insights.
-- Drill-through and slicer features for dynamic filtering and detailed views.
-
-### 💰 Finance Performance Dashboard
-- Summarizes P&L, revenue vs. expenses, and quarterly trends.
-- Designed for CFOs and stakeholders to assess financial health.
-
-*(More dashboards coming soon — stay tuned!)*
+*(Specific project files and documentation are included within each project folder.)*
 
 
-## 🛠 Tools & Skills Used
-
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **Power Query / M Language**
-- **Data Modeling & Relationships**
-- **Custom Visuals & KPIs**
-- **Interactive Filtering, Slicers, and Drill-throughs**
+## Key Benefits
+- Central hub for real-world BI and analytics projects  
+- Demonstrates practical problem-solving using data  
+- Covers multiple domains, from operations and HR to finance and e-commerce  
+- Provides a reference for building interactive dashboards and analytical reports  
 
 
-## 📸 Dashboard Snapshots
-
-> *(Financial)<img width="1280" height="720" alt="Financial" src="https://github.com/user-attachments/assets/5a480d45-79bc-4d7a-82b4-4fb13269c2cc" />
-*  
->*(SCA)<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/ecf836cc-0455-4c35-974b-f1bd27044870" />
-
-
-## 🤝 Contributions
-
-Have ideas for new dashboards or improvements?
-You're welcome to open an issue or submit a pull request. Let's grow this portfolio together.
-
-## 📬 Contact
-
-For collaboration,
-
-📧 yahyaqureshi012@gmail.com
-
-LinkedIn Profile : www.linkedin.com/in/yahya-qureshi012
+## How to Use This Repository
+- **For Learning**: Explore different project structures, dashboards, and reporting techniques  
+- **For Inspiration**: Adapt concepts and frameworks to your own business analytics challenges  
+- **For Collaboration**: Contribute ideas, improvements, or share feedback  
 
 
-## If you like what you see, please give this repo a ⭐ and share it with others!
+**Portfolio**: [https://yahya-kq.odoo.com/](https://yahya-kq.odoo.com/)  
+**LinkedIn**: [https://www.linkedin.com/in/yahya-kq](https://www.linkedin.com/in/yahya-kq)  
+**GitHub**: [https://github.com/yahya-kq](https://github.com/yahya-kq)
 
+
+If you like what you see, give this repository a ⭐ and explore my other projects for more BI and analytics work!
